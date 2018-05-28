@@ -1,12 +1,16 @@
 ﻿28.05.2018
 SPL
-Nues
+Nüs
 
-Neue Version: 14:43 Montag
 Inhalte:
 Versionskontrolle
 Git-Grundlagen
 Python-Grundlagen
 
+Tools für SW-Develoment
+cmder
+python
+visual studio code
 
 
+v2

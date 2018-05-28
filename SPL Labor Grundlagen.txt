@@ -1,9 +1,12 @@
 ﻿28.05.2018
 SPL
-Nüs
+Nues
 
+Neue Version: 14:43 Montag
 Inhalte:
 Versionskontrolle
 Git-Grundlagen
 Python-Grundlagen
+
+
 

@@ -1,0 +1,9 @@
+﻿28.05.2018
+SPL
+Nüs
+
+Inhalte:
+Versionskontrolle
+Git-Grundlagen
+Python-Grundlagen
+
